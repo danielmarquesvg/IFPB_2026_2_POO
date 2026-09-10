@@ -1,0 +1,21 @@
+package aula05_Funcoes;
+
+public class FuncaoMaximo {
+	
+	public static void main(String[] args) {
+		int [] lista = {8, 4, 2, 9, 3, 7, 10, 3, 5, 6};
+	}
+	
+	public static void maiorValorDoArray(int [] listaNumerica) {
+		int maior = listaNumerica[0];
+		
+		for(int i = 1; i < listaNumerica.length; i++) {
+			if(listaNumerica[i] > maior) {
+				maior = listaNumerica[i];
+			}
+		}
+		
+		System.out.println("Maior número do Array é: "+maior);
+	}
+
+}

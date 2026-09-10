@@ -1,0 +1,9 @@
+package aula05_Funcoes;
+
+public class FuncaoMaximo {
+	
+	public static void main(String[] args) {
+		int [] lista = {8, 4, 2, 9, 3, 7, 10, 3, 5, 6};
+	}
+
+}
