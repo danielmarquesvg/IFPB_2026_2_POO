@@ -1,0 +1,20 @@
+package aula04_Array;
+
+import java.util.ArrayList;
+
+public class CriacaoArrayList {
+	
+	public static void main(String[] args) {
+		
+		String [] arrayNomes = new String [100];
+		//Instanciação ou criação
+		ArrayList <String> meuArrayList = new ArrayList <String>();
+		
+		//adicionando elementos
+		meuArrayList.add("Daniel");
+		meuArrayList.add("João");
+		
+		
+	}
+
+}

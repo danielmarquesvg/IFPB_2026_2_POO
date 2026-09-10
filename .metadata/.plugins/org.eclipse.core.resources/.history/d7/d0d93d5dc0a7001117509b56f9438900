@@ -1,0 +1,20 @@
+package aula04_Array;
+
+import java.util.Scanner;
+
+public class Temperatura {
+	
+	public static void main(String[] args) {
+		/*
+		 * Escreva um programa que peça para o usuário
+		 * digitar n temperaturas e em seguida
+		 * exibir a temperatura média do dia
+		 */
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.print("Digite a quantidade de registros de temperatura: ");
+		int quantidade = scanner.nextInt();
+	}
+
+}

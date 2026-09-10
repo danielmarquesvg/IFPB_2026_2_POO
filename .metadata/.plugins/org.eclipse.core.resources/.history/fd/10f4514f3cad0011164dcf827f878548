@@ -1,0 +1,30 @@
+package aula05_Funcoes;
+
+import java.util.Scanner;
+
+public class Calculadora {
+	
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.print("Digite o primeiro valor: ");
+		double n1 = scanner.nextDouble();
+		
+		System.out.print("Digite o segundo valor: ");
+		double n2 = scanner.nextDouble();
+		
+		double result_soma = soma(n1, n2);
+		System.out.println("Soma de "+n1+" com "+n2+" = "+result_soma);
+	}
+	
+	public static double soma(double x1, double x2) {
+		double resultadoSoma = x1 + x2;
+		return resultadoSoma;
+	}
+	
+	public static double subtracao(double x1, double x2) {
+		double resultadoSubtracao = x1 - x2;
+		return resultadoSubtracao;
+	}
+
+}

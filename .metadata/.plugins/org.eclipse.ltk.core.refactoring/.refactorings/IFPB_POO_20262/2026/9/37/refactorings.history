@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;aula05&apos; to &apos;aula05_Funcoes&apos;&#x0D;&#x0A;- Original project: &apos;IFPB_POO_20262&apos;&#x0D;&#x0A;- Original element: &apos;IFPB_POO_20262/src/aula05&apos;&#x0D;&#x0A;- Renamed element: &apos;IFPB_POO_20262/src/aula05_Funcoes&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;aula05&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;aula05" name="aula05_Funcoes" qualified="false" references="true" stamp="1789059777248" textual="false" version="1.0"/>
+</session>

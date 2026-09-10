@@ -1,0 +1,28 @@
+package aula04_Array;
+
+import java.util.*;
+
+public class CriacaoArrayList {
+	
+	public static void main(String[] args) {
+
+		Scanner scanner = new Scanner(System.in);
+		//Instanciação ou criação
+		ArrayList <String> meuArrayList = new ArrayList <String>();
+		
+		System.out.print("Digite o tamanho do arraylist: ");
+		int tamanho = scanner.nextInt();
+		scanner.nextLine();
+		
+		for(int i = 0; i < tamanho; i++) {
+			System.out.print("Digite o valor do índice = "+i);
+			String valor = scanner.nextLine();
+			meuArrayList.add(valor);
+		}
+		
+		for(int i = 0; i < meuArrayList.size(); i++) {
+			System.out.println(meuArrayList.get(i));
+		}
+	}
+
+}

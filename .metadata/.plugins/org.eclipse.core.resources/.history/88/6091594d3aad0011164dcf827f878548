@@ -1,0 +1,22 @@
+package aula05_Funcoes;
+
+import java.util.Scanner;
+
+public class Calculadora {
+	
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.print("Digite o primeiro valor: ");
+		double n1 = scanner.nextDouble();
+		
+		System.out.print("Digite o segundo valor: ");
+		double n2 = scanner.nextDouble();
+	}
+	
+	public static double soma(double x1, double x2) {
+		double resultadoSoma = x1 + x2;
+		return resultadoSoma;
+	}
+
+}

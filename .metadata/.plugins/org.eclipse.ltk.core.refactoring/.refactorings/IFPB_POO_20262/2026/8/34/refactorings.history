@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;IFPB_POO_20262&apos;&#x0D;&#x0A;- Original project: &apos;IFPB_POO_20262&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     IFPB_POO_20262/src/bd&#x0D;&#x0A;     IFPB_POO_20262/src/gui&#x0D;&#x0A;     IFPB_POO_20262/src/model" description="Delete elements" element1="/src&lt;model" element2="/src&lt;gui" element3="/src&lt;bd" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1787330421822" subPackages="false" version="1.0"/>
+</session>

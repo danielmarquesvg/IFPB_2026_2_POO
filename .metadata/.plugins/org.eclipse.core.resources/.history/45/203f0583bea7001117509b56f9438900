@@ -1,0 +1,31 @@
+package aula04_Array;
+
+import java.util.Scanner;
+
+public class CriacaoArray {
+	
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		//criando o tamanho do array
+		System.out.print("Digite o tamanho do array: ");
+		int tamanhoArray = scanner.nextInt();
+		
+		
+		//criando o meu array
+		double [] listaDeNotas = new double [tamanhoArray];
+		
+		//percorrendo e adicionando elementos no meu array
+		for(int i = 0; i < listaDeNotas.length; i++) {
+			System.out.print("listaDeNotas["+i+"] = ");
+			listaDeNotas[i] = scanner.nextDouble();
+		}
+		
+		//exibindo os elementos do meu array
+		for(int i = 0; i < tamanhoArray; i++) {
+			System.out.println("listaDeNotas["+i+"] = "+listaDeNotas[i]);
+		}
+		
+	}
+
+}
