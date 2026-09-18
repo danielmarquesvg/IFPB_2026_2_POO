@@ -1,0 +1,19 @@
+package aula06_recursividade;
+
+public class Fibonnaci {
+	
+	public static void main(String[] args) {
+		double numero = 5;
+		double resultado = funcaoFib(numero);
+		System.out.println("Fibonnaci do valor "+numero+" = "+resultado);
+	}
+	
+	public static double funcaoFib(double n) {
+		if(n <= 1) {
+			return 1;
+		} else {
+			return funcaoFib(n-2) + funcaoFib(n-1);
+		}
+	}
+
+}

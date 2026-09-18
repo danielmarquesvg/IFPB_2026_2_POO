@@ -1,0 +1,25 @@
+package aula06_recursividade;
+
+public class Fatorial {
+	
+	public static void main(String[] args) {
+		//codigo iterativo (for ou while)
+		int fatorial = 1;
+		for(int i = 5; i >= 1; i--) {
+			fatorial = fatorial * i;
+		}
+		System.out.println("Fatorial de 5 = "+fatorial);
+		
+		int resultadorecursivo = fatorial(5);
+		System.out.println("Fatorial de 5 recursivo = "+resultadorecursivo);
+	}
+	
+	public static int fatorial(int n) {
+		if(n > 1) {
+			return n* fatorial(n-1);
+		} else {
+			return 1;
+		}
+	}
+
+}

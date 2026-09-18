@@ -1,0 +1,14 @@
+package aula08_ClasseObjeto;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		//criando um objeto da classe Livro
+		Livro livro1 = new Livro("Aprendendo a programar", "Deitel", true, 8, 1100, "Didático");
+		livro1.verInformacoesDoLivro();
+		
+		Livro livro2 = new Livro("POO - Daniel", "capeta", false, 1, 3000, "Didático");
+		livro1.verInformacoesDoLivro();
+	}
+
+}

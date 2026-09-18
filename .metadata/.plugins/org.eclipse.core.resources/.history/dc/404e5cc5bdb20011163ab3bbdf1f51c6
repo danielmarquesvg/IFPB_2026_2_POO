@@ -1,0 +1,25 @@
+package aula08_ClasseObjeto;
+
+public class Livro {
+	
+	//atributos ou características
+	String titulo;
+	String autor;
+	boolean sumario;
+	int volume;
+	int paginas;
+	String genero;
+	
+	//ações ou métodos
+	public void verInformacoesDoLivro() {
+		System.out.print("Título do livro: = "+titulo);
+		System.out.print("Autor = "+autor);
+		if(sumario == true) {
+			System.out.println("Sumário = sim");
+		} else {
+			System.out.println("Sumário = não");
+		}
+		System.out.println("Volume = "+volume);
+	}
+
+}

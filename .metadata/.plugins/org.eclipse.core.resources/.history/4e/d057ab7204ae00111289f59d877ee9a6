@@ -1,0 +1,15 @@
+package aula06_recursividade;
+
+public class Fibonnaci {
+	
+	public static void main(String[] args) {
+		
+	}
+	
+	public static double funcaoFib(double n) {
+		if(n <= 1) {
+			return 1;
+		}
+	}
+
+}

@@ -1,0 +1,13 @@
+package aula08_ClasseObjeto_Imovel;
+
+public class Imovel {
+	
+	//atributos
+	int quantidadeQuartos;
+	String bairro;
+	String cidade;
+	double valor;
+	String telefone;
+	
+
+}

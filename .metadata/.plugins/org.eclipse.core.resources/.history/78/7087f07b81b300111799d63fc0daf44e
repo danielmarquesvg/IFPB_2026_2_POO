@@ -1,0 +1,9 @@
+package aula08_ClasseObjeto_Imovel;
+
+public class Imovel {
+	
+	//atributos
+	int quantidadeQuartos;
+	
+
+}

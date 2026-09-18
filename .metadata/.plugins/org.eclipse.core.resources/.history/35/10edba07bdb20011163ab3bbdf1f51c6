@@ -1,0 +1,12 @@
+package aula08_ClasseObjeto;
+
+public class Livro {
+	
+	String titulo;
+	String autor;
+	boolean sumario;
+	int volume;
+	int paginas;
+	String genero;
+
+}
