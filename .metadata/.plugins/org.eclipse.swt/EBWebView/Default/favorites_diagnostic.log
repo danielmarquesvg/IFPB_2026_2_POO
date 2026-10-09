@@ -227,3 +227,53 @@
 2026-09-18 16:55:30.429: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-18 16:55:30.429: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-18 17:02:01.173: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 17:10:54.958: [INFO] CurrentProfilePath: C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-18 17:10:54.958: [INFO] Profiles total count: 1
+2026-09-18 17:10:54.958: [INFO] Profile: name=Perfil 1 path=C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-10T17:30:59.349Z
+2026-09-18 17:10:54.958: [INFO] LastUsedProfileDir: C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-18 17:10:54.958: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-10T17:30:59.349Z
+2026-09-18 17:10:54.958: [INFO] OnDoneLoading sync enabled: 0
+2026-09-18 17:10:54.958: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-18 17:10:54.958: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-18 17:10:54.958: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 18:16:40.921: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-24 16:46:56.180: [INFO] CurrentProfilePath: C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-24 16:46:56.181: [INFO] Profiles total count: 1
+2026-09-24 16:46:56.181: [INFO] Profile: name=Perfil 1 path=C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-10T17:30:59.349Z
+2026-09-24 16:46:56.181: [INFO] LastUsedProfileDir: C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-24 16:46:56.181: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-10T17:30:59.349Z
+2026-09-24 16:46:56.181: [INFO] OnDoneLoading sync enabled: 0
+2026-09-24 16:46:56.181: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-24 16:46:56.181: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-24 16:46:56.181: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-24 17:12:10.714: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 16:51:56.086: [INFO] CurrentProfilePath: C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 16:51:56.086: [INFO] Profiles total count: 1
+2026-10-08 16:51:56.087: [INFO] Profile: name=Perfil 1 path=C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-10T17:30:59.349Z
+2026-10-08 16:51:56.087: [INFO] LastUsedProfileDir: C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 16:51:56.087: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-10T17:30:59.349Z
+2026-10-08 16:51:56.087: [INFO] OnDoneLoading sync enabled: 0
+2026-10-08 16:51:56.087: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-08 16:51:56.087: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-08 16:51:56.087: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 16:52:01.443: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 16:52:20.910: [INFO] CurrentProfilePath: C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 16:52:20.910: [INFO] Profiles total count: 1
+2026-10-08 16:52:20.910: [INFO] Profile: name=Perfil 1 path=C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-10T17:30:59.349Z
+2026-10-08 16:52:20.910: [INFO] LastUsedProfileDir: C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 16:52:20.910: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-10T17:30:59.349Z
+2026-10-08 16:52:20.910: [INFO] OnDoneLoading sync enabled: 0
+2026-10-08 16:52:20.910: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-08 16:52:20.910: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-08 16:52:20.910: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 16:57:39.014: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 17:23:10.036: [INFO] CurrentProfilePath: C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 17:23:10.036: [INFO] Profiles total count: 1
+2026-10-08 17:23:10.037: [INFO] Profile: name=Perfil 1 path=C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-10T17:30:59.349Z
+2026-10-08 17:23:10.037: [INFO] LastUsedProfileDir: C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-08 17:23:10.037: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Daniel\Workspace\Github\IFPB_2026_2_POO\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-10T17:30:59.349Z
+2026-10-08 17:23:10.037: [INFO] OnDoneLoading sync enabled: 0
+2026-10-08 17:23:10.037: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-08 17:23:10.037: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-08 17:23:10.037: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-08 18:26:03.198: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

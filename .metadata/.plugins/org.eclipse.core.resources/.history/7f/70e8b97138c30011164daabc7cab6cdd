@@ -1,0 +1,13 @@
+package aulaRevisao1Unidade;
+
+import java.util.Scanner;
+
+public class ParteFracionaria {
+	
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		System.out.print("Digite um valor decimal = ");
+		double numeroDigitado = scanner.nextDouble();
+	}
+
+}

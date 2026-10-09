@@ -1,0 +1,11 @@
+package aulaRevisao1Unidade;
+
+public class RepeticaoForDecimal {
+	
+	public static void main(String[] args) {
+		for(double i = 15.2; i >= -5.8; i = i - 1.5) {
+			System.out.printf("%.1f | ", i);
+		}
+	}
+
+}
