@@ -1,0 +1,20 @@
+package aulaRevisao1Unidade;
+
+public class Endereco {
+	
+	//atributos
+	String rua;
+	int numero;
+	String letra;
+	String bairro;
+	String cidade;
+	
+	//construtor
+	public Endereco(String novaRua, int novoNumero, String novaLetra, String novoBairro, String novaCidade) {
+		this.rua = novaRua;
+		this.numero = novoNumero;
+		this.letra = novaLetra;
+		this.bairro = novoBairro;
+	}
+
+}

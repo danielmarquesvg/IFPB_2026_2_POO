@@ -1,0 +1,9 @@
+package aulaRevisao1Unidade;
+
+public class MainEndereco {
+	
+	public static void main(String[] args) {
+		Endereco = new Endereco();
+	}
+
+}

@@ -1,0 +1,15 @@
+package aula10_HerancaSimples;
+
+public class Automovel {
+	
+	//atributos
+	String marca;
+	String modelo;
+	
+	//Construtor
+	public void Automovel(String novaMarca, String novoModelo) {
+		this.marca = novaMarca;
+		this.modelo = novoModelo;
+	}
+
+}

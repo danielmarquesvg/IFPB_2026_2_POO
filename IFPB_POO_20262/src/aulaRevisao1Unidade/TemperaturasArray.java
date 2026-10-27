@@ -1,0 +1,38 @@
+package aulaRevisao1Unidade;
+
+import java.util.Scanner;
+
+public class TemperaturasArray {
+	
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		//ler a quantidade de temperaturas
+		System.out.print("Quantidade de temperaturas: ");
+		int quantidade = scanner.nextInt();
+		
+		//criar um array com a quantidade de temperaturas
+		double [] listaTemp = new double [quantidade];
+		
+		//ler n temperaturas e armazená-las dentro do array
+		for(int i = 0; i < listaTemp.length; i++) {
+			System.out.print("Temperatura["+i+"] = ");
+			listaTemp[i] = scanner.nextDouble();
+		}
+		
+		//somando os valores do array para calcular a média
+		double soma = 0;
+		for(int i = 0; i < listaTemp.length; i++) {
+			soma = soma + listaTemp[i];
+		}
+		double media = soma / quantidade;
+		
+		//percorri cada valor do array e o subtraí da média
+		for(int i = 0; i < listaTemp.length; i++) {
+			double diferenca = listaTemp[i] - media;
+			System.out.printf("%.1f   %.2f\n", listaTemp[i], diferenca);
+		}
+		
+	}
+
+}

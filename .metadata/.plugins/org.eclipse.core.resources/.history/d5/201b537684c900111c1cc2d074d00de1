@@ -1,0 +1,24 @@
+package aula10_HerancaSimples;
+
+public class Moto extends Automovel{
+	
+	//atributos
+	int cilidradas;
+	String marca;
+	
+	public Moto(String marca, String modelo, int cilindradas) {
+		super();
+		this.cilidradas = cilindradas;
+	}
+
+	public int getCilidradas() {
+		return cilidradas;
+	}
+
+	public void setCilidradas(int cilidradas) {
+		this.cilidradas = cilidradas;
+	}
+	
+	
+
+}
