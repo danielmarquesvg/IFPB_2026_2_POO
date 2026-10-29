@@ -1,0 +1,8 @@
+package aula11_HerancaSalario;
+
+public class Professor extends Pessoa {
+	
+	int horasAulas;
+	int matricula;
+
+}

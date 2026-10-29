@@ -1,0 +1,18 @@
+package aula11_HerancaSalario;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		Pessoa pessoa1 = new Pessoa("Juliana");
+		System.out.println("Nome da pessoa = "+pessoa1.getNome());
+		System.out.println("Salário da pessoa = "+pessoa1.getSalario());
+		
+		System.out.println();
+		
+		Professor professor1 = new Professor("Daniel", 70, 12345);
+		System.out.println("Nome da professor = "+professor1.getNome());
+		System.out.println("Salário da professor = "+professor1.getSalario());
+		System.out.println("Matrícula do professor = "+professor1.getMatricula());
+	}
+
+}

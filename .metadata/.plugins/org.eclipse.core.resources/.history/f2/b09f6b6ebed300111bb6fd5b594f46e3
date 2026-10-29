@@ -1,0 +1,14 @@
+package aula11_HerancaSalario;
+
+public class Professor extends Pessoa {
+	
+	int horasAulas;
+	int matricula;
+	
+	public Professor(String novoNome, int horas, int mat) {
+		super(novoNome);
+		this.horasAulas = horas;
+		this.matricula = mat;
+	}
+
+}

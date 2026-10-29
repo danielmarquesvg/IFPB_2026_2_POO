@@ -1,0 +1,12 @@
+package aula11;
+
+public class Aluno extends Pessoa{
+	
+	int matricula;
+	
+	public Aluno(String novoNome, double novoSalario, int novaMatricula) {
+		super(novoNome, novoSalario);
+		this.matricula = novaMatricula;
+	}
+
+}

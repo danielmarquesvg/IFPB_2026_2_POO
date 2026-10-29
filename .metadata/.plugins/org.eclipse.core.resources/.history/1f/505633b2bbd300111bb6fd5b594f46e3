@@ -1,0 +1,7 @@
+package aula11;
+
+public class Main {
+	
+	Pessoa p1 = new Pessoa("João", 5000);
+
+}

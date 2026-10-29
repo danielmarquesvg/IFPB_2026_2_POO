@@ -1,0 +1,37 @@
+package aula11_HerancaSalario;
+
+public class Professor extends Pessoa {
+	
+	int horasAulas;
+	int matricula;
+	
+	public Professor(String novoNome, int horas, int mat) {
+		super(novoNome);
+		this.horasAulas = horas;
+		this.matricula = mat;
+		calcularSalario();
+	}
+	
+	public void calcularSalario() {
+		double valorHora = 30;
+		double salarioProfessor = this.horasAulas * valorHora;
+		this.setSalario(salarioProfessor);
+	}
+
+	public int getHorasAulas() {
+		return horasAulas;
+	}
+
+	public void setHorasAulas(int horasAulas) {
+		this.horasAulas = horasAulas;
+	}
+
+	public int getMatricula() {
+		return matricula;
+	}
+
+	public void setMatricula(int matricula) {
+		this.matricula = matricula;
+	}
+
+}

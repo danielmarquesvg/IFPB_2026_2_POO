@@ -1,0 +1,10 @@
+package aula11;
+
+public class Aluno extends Pessoa{
+	
+	
+	public Aluno(String novoNome, double novoSalario) {
+		super(novoNome, novoSalario);
+	}
+
+}

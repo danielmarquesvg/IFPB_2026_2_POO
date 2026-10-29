@@ -1,0 +1,13 @@
+package aula11;
+
+public class Pessoa {
+	
+	String nome;
+	double salario;
+	
+	public Pessoa(String novoNome, double novoSalario) {
+		this.nome = novoNome;
+		this.salario = novoSalario;
+	}
+
+}
